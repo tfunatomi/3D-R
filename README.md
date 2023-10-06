@@ -13,5 +13,5 @@ Download the data from NeuroGT (https://ssbd.riken.jp/neurogt/) and create the f
             └── G2AN_woTM_L/
                 └── G2AN_woTM_xxxx_Lxxx_x.png
 ```
-The results of the G2AN_TM12.5_L run are disclosed below.
+The results of the G2AN_TM12.5_G run are disclosed below.
 https://figshare.com/projects/NeuroGT/179694
