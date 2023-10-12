@@ -4,6 +4,7 @@ Download the data from NeuroGT (https://ssbd.riken.jp/neurogt/) and create the f
 .
 └── 3D-R/
     ├── 3D-R.ipynb
+    ├── name.txt
     └── dataset/
         ├── 1
         ├── 2
